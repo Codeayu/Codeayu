@@ -1,6 +1,7 @@
 <!-- Typing effect -->
+<!-- Hero Typing Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Chainani;Final+Year+AI+%26+DS+Student;Full-Stack+%7C+Data+%7C+ML+Engineer;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=Hey!+I'm+Ayush+Chainani;AI+%26+Data+Science+Student;Full-Stack+Web+Developer;ML+%7C+Data+%7C+AI+Enthusiast;Let's+Build+Something+Cool!" alt="Typing SVG" />
 </p>
 
 <!-- Header Banner -->
