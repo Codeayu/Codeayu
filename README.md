@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-graph.ezra.sh/api?username=codeayu&bg_color=000000&color=00ffb3&line=00ffd9&point=ffffff&area=true&area_color=00c6ff&custom_title=My%20GitHub%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeayu&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
