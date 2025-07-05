@@ -1,76 +1,64 @@
-<!-- Hero Typing Section -->
+<!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=Hey!+I'm+Ayush+Chainani;AI+%26+Data+Science+Student;Full-Stack+Web+Developer;ML+%7C+Data+%7C+AI+Enthusiast;Let's+Build+Something+Cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Chainani;Final+Year+AI+%26+DS+Student;Full-Stack+%7C+Data+%7C+ML+Engineer;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
-<!-- Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=100&section=header&text=Welcome%20to%20My%20GitHub&fontSize=28&fontColor=ffffff" />
-</p>
-
----
-
-## 🌟 About Me
-
-👨‍🎓 Final-year student pursuing **B.E. in AI & Data Science**  
-🛠️ A hands-on learner who loves building end-to-end products  
-🧠 Passionate about **Machine Learning, Full-Stack Web Dev, Power BI, and LLMs**  
-🎯 Hackathon 2025 — 🥉 **3rd Place Winner** with `CodeHack`  
-🚀 Currently upskilling in **Java**, **Flask**, and **AI-Powered Tools**
-
-💬 Motto: *"Build, break, learn, repeat!"*
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,flask,html,css,js,tailwind,react,mysql,mongodb,git,github,vscode,figma,postman,pandas,numpy,scikit-learn,tensorflow,pytorch,heroku" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 ---
 
-## 🔥 Highlight Projects
+## 👨‍💻 About Me
 
-| 💡 Project | 🚀 Description |
+- 🎓 Final-Year B.E. student in **Artificial Intelligence & Data Science**
+- 💡 Tech Enthusiast | Developer | Innovator | Hackathon Winner
+- 🛠️ Currently learning **Java**, **Flask**, and **Deep Learning (PyTorch)**
+- 🧠 Passionate about **Data Science**, **LLMs**, **ML Apps**, and **Open-Source**
+- 🔭 Building meaningful tools that simplify life or amplify productivity
+- 🏆 Hackathon 2025 - **3rd Place Winner** with Team `CodeHack`
+- ✨ Believe in **"Learning by Doing"** and creating impact through code
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,flask,html,css,js,tailwind,mysql,mongodb,git,github,vscode,figma,postman,pandas,numpy,scikit-learn,tensorflow,pytorch,heroku" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeayu&show_icons=true&theme=react&border_radius=10&hide=stars" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeayu&layout=compact&theme=react&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codeayu&theme=react&hide_border=false&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-graph.ezra.sh/api?username=codeayu&bg_color=000000&color=00ffb3&line=00ffd9&point=ffffff&area=true&area_color=00c6ff&custom_title=My%20GitHub%20Activity%20Graph" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+| 🚀 Project | 💡 Description |
 |-----------|----------------|
-| [🎬 Movie Recommender](https://github.com/Codeayu/movie-recommender) | ML model recommending movies using content-based filtering |
-| [🧠 SmartExam](https://github.com/Codeayu/smartexam) | AI predicts important questions from past papers + syllabus |
-| [🍽 Recipe Manager](https://recipemanager-wqov.onrender.com) | Django-based CRUD app with a clean UI for managing recipes |
-| [📊 Power BI Dashboards](https://github.com/Codeayu/powerbi-projects) | Sales analysis of pizza stores and supermarkets using BI tools |
+| [🎬 Movie Recommender](https://github.com/Codeayu/movie-recommender) | ML-powered personalized movie recommendation system |
+| [🧠 SmartExam](https://github.com/Codeayu/smartexam) | AI-based tool to predict important exam questions |
+| [🍕 Recipe Manager](https://recipemanager-wqov.onrender.com) | Django-based full-stack recipe management web app |
+| [📊 Power BI Dashboards](https://github.com/Codeayu/powerbi-projects) | Business analytics dashboards for sales performance |
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeayu&show_icons=true&theme=github_dark&border_radius=10&hide=stars" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeayu&layout=compact&theme=github_dark&border_radius=10" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=codeayu&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
-</div>
-
----
-
-## 🗂️ Contribution Graph
-
-<p align="center">
-  <img src="https://github-contribution-graph.ezra.sh/api?username=codeayu&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00bfff" />
-</p>
-
----
-
-## 💬 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:ayushchainani210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -81,19 +69,27 @@
 
 ---
 
-## 🤝 Let's Build Together
+## 🧠 Dev Quote of the Day
 
-> 💻 Open for collaborations on:
-> - 🔗 Django / Flask apps
-> - 🧠 Machine Learning / LLM tools
-> - 📊 Dashboards with Power BI / Streamlit
-> - 🚀 Hackathons, internships, freelance work
-
-If you’re working on something cool, **let’s connect and collaborate!** ✨
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-<!-- Footer wave -->
+## 📢 Open to Collaboration
+
+Looking to team up on:
+- 🔧 Django / Flask Web Apps
+- 🧪 AI/ML Projects
+- 📊 Data Dashboards (Power BI / Streamlit)
+- 🎓 Hackathons, Student-led Initiatives, Open Source
+
+> 💬 *“Let’s build tools that change the world — one commit at a time!”*
+
+---
+
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer"/>
 </p>
