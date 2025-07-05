@@ -1,24 +1,99 @@
+<!-- Hero Typing Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=Hey!+I'm+Ayush+Chainani;AI+%26+Data+Science+Student;Full-Stack+Web+Developer;ML+%7C+Data+%7C+AI+Enthusiast;Let's+Build+Something+Cool!" alt="Typing SVG" />
+</p>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=100&section=header&text=Welcome%20to%20My%20GitHub&fontSize=28&fontColor=ffffff" />
+</p>
 
 ---
 
-# 👋 Hi, I’m Ayush Chainani (@Codeayu)
+## 🌟 About Me
 
-- 👀 I’m interested in Java, C++, Django, Python, data science, and data analytics
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects related to web development and software engineering
-- 📫 How to reach me:
-  - **LinkedIn**: [Ayush Chainani](https://www.linkedin.com/in/ayushchainani/)
-  - **Instagram**: [@ayushh__210](https://www.instagram.com/ayushh__210/)
+👨‍🎓 Final-year student pursuing **B.E. in AI & Data Science**  
+🛠️ A hands-on learner who loves building end-to-end products  
+🧠 Passionate about **Machine Learning, Full-Stack Web Dev, Power BI, and LLMs**  
+🎯 Hackathon 2025 — 🥉 **3rd Place Winner** with `CodeHack`  
+🚀 Currently upskilling in **Java**, **Flask**, and **AI-Powered Tools**
 
-<!---
-Codeayu/Codeayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeayu&show_icons=true&locale=en&layout=compact" alt="codeayu" /></p>
+💬 Motto: *"Build, break, learn, repeat!"*
 
 ---
 
+## 🚀 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,flask,html,css,js,tailwind,react,mysql,mongodb,git,github,vscode,figma,postman,pandas,numpy,scikit-learn,tensorflow,pytorch,heroku" />
+</p>
+
+---
+
+## 🔥 Highlight Projects
+
+| 💡 Project | 🚀 Description |
+|-----------|----------------|
+| [🎬 Movie Recommender](https://github.com/Codeayu/movie-recommender) | ML model recommending movies using content-based filtering |
+| [🧠 SmartExam](https://github.com/Codeayu/smartexam) | AI predicts important questions from past papers + syllabus |
+| [🍽 Recipe Manager](https://recipemanager-wqov.onrender.com) | Django-based CRUD app with a clean UI for managing recipes |
+| [📊 Power BI Dashboards](https://github.com/Codeayu/powerbi-projects) | Sales analysis of pizza stores and supermarkets using BI tools |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeayu&show_icons=true&theme=github_dark&border_radius=10&hide=stars" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeayu&layout=compact&theme=github_dark&border_radius=10" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=codeayu&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
+</div>
+
+---
+
+## 🗂️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.ezra.sh/api?username=codeayu&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00bfff" />
+</p>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:ayushchainani210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayushchainani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/ayushh__210"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://ayushchainani.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+## 🤝 Let's Build Together
+
+> 💻 Open for collaborations on:
+> - 🔗 Django / Flask apps
+> - 🧠 Machine Learning / LLM tools
+> - 📊 Dashboards with Power BI / Streamlit
+> - 🚀 Hackathons, internships, freelance work
+
+If you’re working on something cool, **let’s connect and collaborate!** ✨
+
+---
+
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=100&section=footer"/>
+</p>
