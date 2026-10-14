@@ -1,96 +1,219 @@
-<!-- Typing effect -->
-<!-- Hero Typing Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=460&lines=Hey!+I'm+Ayush+Chainani;AI+%26+Data+Science+Student;Full-Stack+Web+Developer;ML+%7C+Data+%7C+AI+Enthusiast;Let's+Build+Something+Cool!" alt="Typing SVG" />
-</p>
+ <div align="center">
 
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=35" />
-</p>
+<img src="assets/Ayush%20Chainani_%20Ideas%20Into%20Impact.png" width="100%" alt="Ayush Chainani — Ideas Into Impact"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=75E6FF&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+real+problems.;From+raw+data+to+useful+intelligence.;Learning+by+building.+Growing+by+shipping.;Turning+ideas+into+working+products." alt="Animated introduction"/>
 
-## 👨‍💻 About Me
+<a href="https://ayushchainani.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=vercel&logoColor=75E6FF" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ayushchainani/"><img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=75E6FF" alt="LinkedIn"/></a>
+<a href="mailto:ayushchainani210@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=75E6FF" alt="Email"/></a>
+<a href="https://github.com/Codeayu"><img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=75E6FF" alt="GitHub"/></a>
 
-- 🎓 Final-Year B.E. student in **Artificial Intelligence & Data Science**
-- 💡 Tech Enthusiast | Developer | Innovator | Hackathon Winner
-- 🛠️ Currently learning **Java**, **Flask**, and **Deep Learning (PyTorch)**
-- 🧠 Passionate about **Data Science**, **LLMs**, **ML Apps**, and **Open-Source**
-- 🔭 Building meaningful tools that simplify life or amplify productivity
-- 🏆 Hackathon 2025 - **3rd Place Winner** with Team `CodeHack`
-- ✨ Believe in **"Learning by Doing"** and creating impact through code
+**AI ENGINEERING** · **DATA SCIENCE** · **SOFTWARE DEVELOPMENT**
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `01 / THE DEVELOPER`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,flask,html,css,js,tailwind,mysql,mongodb,git,github,vscode,figma,postman,pandas,numpy,scikit-learn,tensorflow,pytorch,heroku" />
-</p>
+Hey, I'm **Ayush Chainani** 👋
 
----
+I'm an **Artificial Intelligence & Data Science graduate** interested in building intelligent applications that connect data, AI models, and real-world problems.
 
-## 📈 GitHub Stats & Contributions
+I enjoy taking ideas from concept to implementation — whether that's building a machine learning solution, developing a full-stack application, or experimenting with LLM-powered systems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeayu&show_icons=true&theme=react&border_radius=10&hide=stars" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeayu&layout=compact&theme=react&border_radius=10" height="180"/>
-</p>
+My interests include **Generative AI, Retrieval-Augmented Generation (RAG), machine learning, and data-driven problem solving.**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codeayu&theme=react&hide_border=false&border_radius=10" height="180"/>
-</p>
+```python
+class AyushChainani:
+    education = "B.E. in Artificial Intelligence & Data Science"
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeayu&theme=react-dark&area=true&hide_border=true" />
-</p>
+    interests = [
+        "Generative AI & LLMs",
+        "Retrieval-Augmented Generation",
+        "Machine Learning",
+        "Data Science & Analytics",
+        "Software Engineering",
+    ]
 
----
+    mindset = "Learn → Build → Test → Improve"
+    goal = "Build practical, impactful AI applications"
+```
 
-## 🔥 Featured Projects
-
-| 🚀 Project | 💡 Description |
-|-----------|----------------|
-| [🎬 Movie Recommender](https://github.com/Codeayu/movie-recommender) | ML-powered personalized movie recommendation system |
-| [🧠 SmartExam](https://github.com/Codeayu/smartexam) | AI-based tool to predict important exam questions |
-| [🍕 Recipe Manager](https://recipemanager-wqov.onrender.com) | Django-based full-stack recipe management web app |
-| [📊 Power BI Dashboards](https://github.com/Codeayu/powerbi-projects) | Business analytics dashboards for sales performance |
+- 🔭 Building AI-powered applications and practical software projects.
+- 🧠 Exploring RAG pipelines, LLM applications, and intelligent information retrieval.
+- 📊 Interested in transforming raw data into meaningful insights.
+- 🏆 3rd-place winner at Hackathon 2025 with Team `CodeHack`.
+- ⚡ Learning by building, understanding the fundamentals, and shipping projects.
 
 ---
 
-## 📫 Connect With Me
+## `02 / SELECTED WORK`
 
-<p align="center">
-  <a href="mailto:ayushchainani210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ayushchainani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/ayushh__210"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://ayushchainani.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+*Experiments, ideas, and solutions built one project at a time.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 DocuMind
+
+**Ask your documents. Get AI-powered answers.**
+
+A deployed RAG-based chatbot that lets users interact with documents and retrieve relevant context for AI-generated answers.
+
+- Document question answering
+- Context-aware retrieval
+- LLM-powered responses
+- Deployed interactive application
+
+`Python` `Streamlit` `Gemini API` `RAG`
+
+<a href="https://documind-by-ayush.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-75E6FF?style=flat-square&logo=streamlit&logoColor=0B1020" alt="Live demo"/></a>
+<a href="https://github.com/Codeayu/DocuMind"><img src="https://img.shields.io/badge/SOURCE_CODE-20283A?style=flat-square&logo=github&logoColor=white" alt="Source code"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Movie Recommender
+
+**Personalized movie discovery with ML.**
+
+A recommendation-system project exploring how data and similarity-based techniques can help users discover relevant movies.
+
+- Data preprocessing
+- Recommendation logic
+- Similarity-based discovery
+
+`Python` `Machine Learning`
+
+<a href="https://github.com/Codeayu/movie-recommender"><img src="https://img.shields.io/badge/VIEW_PROJECT-20283A?style=flat-square&logo=github&logoColor=white" alt="View project"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Power BI Dashboards
+
+**From business data to useful insights.**
+
+Analytics dashboards focused on sales performance, KPIs, and data-driven decision-making.
+
+`Power BI` `Data Analytics` `Visualization`
+
+<a href="https://github.com/Codeayu/powerbi-projects"><img src="https://img.shields.io/badge/VIEW_PROJECT-20283A?style=flat-square&logo=github&logoColor=white" alt="View project"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍕 Recipe Manager
+
+**A full-stack recipe management application.**
+
+A Django-based web application built to manage recipes through a practical web development workflow.
+
+`Python` `Django` `HTML` `CSS`
+
+<a href="https://recipemanager-wqov.onrender.com"><img src="https://img.shields.io/badge/LIVE_DEMO-75E6FF?style=flat-square&logo=render&logoColor=0B1020" alt="Live demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎯 SmartExam
+
+An AI-based exam preparation project designed to help identify potentially important questions and make study sessions more focused.
+
+`Python` `AI`
+
+<a href="https://github.com/Codeayu/smartexam"><img src="https://img.shields.io/badge/VIEW_PROJECT-20283A?style=flat-square&logo=github&logoColor=white" alt="View project"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Dev Quote of the Day
+## `03 / THE TOOLKIT`
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+**Languages & web development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js&theme=dark" alt="Programming languages"/>
 </p>
+
+**AI, machine learning & data**
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" alt="AI and data tools"/>
+</p>
+
+**Frameworks, databases & developer tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,streamlit,mysql,mongodb,git,github,vscode,postman,figma&theme=dark" alt="Frameworks and tools"/>
+</p>
+
+*I focus on understanding the fundamentals and choosing the right tools for the problem.*
 
 ---
 
-## 📢 Open to Collaboration
+## `04 / GITHUB ACTIVITY`
 
-Looking to team up on:
-- 🔧 Django / Flask Web Apps
-- 🧪 AI/ML Projects
-- 📊 Data Dashboards (Power BI / Streamlit)
-- 🎓 Hackathons, Student-led Initiatives, Open Source
+<div align="center">
 
-> 💬 *“Let’s build tools that change the world — one commit at a time!”*
+<img src="https://github-readme-stats.vercel.app/api?username=Codeayu&show_icons=true&theme=transparent&hide_border=true&title_color=75E6FF&icon_color=75E6FF&text_color=C9D1D9" height="170" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeayu&layout=compact&theme=transparent&hide_border=true&title_color=75E6FF&text_color=C9D1D9" height="170" alt="Most-used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Codeayu&theme=transparent&hide_border=true&ring=75E6FF&fire=75E6FF&currStreakLabel=75E6FF&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak"/>
+
+</div>
+
+[Explore my repositories and contributions →](https://github.com/Codeayu)
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer"/>
-</p>
+## `05 / HOW I BUILD`
+
+- **Curiosity over comfort.** Explore concepts beyond the surface.
+- **Build over theory alone.** Turn learning into working software.
+- **Understand the architecture.** Know how components work together.
+- **Consistency over shortcuts.** Improve with every iteration.
+
+My goal is to grow as an engineer who can understand a problem, design a solution, build it, and explain the decisions behind it.
+
+---
+
+## `06 / LET'S CONNECT`
+
+I'm open to connecting with developers, AI enthusiasts, recruiters, and teams building meaningful technology.
+
+Interested in collaborating on:
+
+- Generative AI and LLM applications
+- RAG and intelligent document systems
+- Machine learning and data analytics
+- Python-based software projects
+- Open-source projects and hackathons
+
+<div align="center">
+
+<a href="https://ayushchainani.dev"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-75E6FF?style=for-the-badge&logo=vercel&logoColor=0B1020" alt="Portfolio"/></a>
+
+<a href="https://www.linkedin.com/in/ayushchainani/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-20283A?style=for-the-badge&logo=linkedin&logoColor=75E6FF" alt="LinkedIn"/></a>
+
+<a href="mailto:ayushchainani210@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-20283A?style=for-the-badge&logo=gmail&logoColor=75E6FF" alt="Email"/></a>
+
+<br/>
+
+*"Understand deeply. Build boldly. Keep shipping."*
+
+</div>
+
+---
+
+<sub>Designed with curiosity, built with code, and improved with every commit.</sub>
